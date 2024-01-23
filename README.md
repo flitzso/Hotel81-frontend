@@ -21,7 +21,7 @@ Frontend do projeto Hotel81 um site de consultar medicas.
 
 ## 👨🏻‍💻Layout 
 ![hotel1](https://github.com/flitzso/Hotel81-frontend/assets/106411702/6ed2b75e-7ca6-4def-9567-916eb5f10511)
-![hotel2](https://github.com/flitzso/Hotel81-frontend/assets/106411702/ccb1e994-f14a-4572-b19e-3dc6e3f429bb)
+![hotel2](https://github.com/flitzso/Hotel81-frontend/assets/106411702/31ea3b86-a4f2-40a5-ac1a-069a15471ed8)
 ![hotelLogin](https://github.com/flitzso/Hotel81-frontend/assets/106411702/7dfa1673-7d2c-4c89-8a25-38a25f7d3d11)
 ![hotelCadastro](https://github.com/flitzso/Hotel81-frontend/assets/106411702/deb605c7-40a9-4454-b138-7c6ba4bd26f1)
 
@@ -29,10 +29,10 @@ Frontend do projeto Hotel81 um site de consultar medicas.
 
 ```bash
 # Clone este repositorio
-$ git clone https://github.com/flitzso/MediMais-frontend
+$ git clone https://github.com/flitzso/Hotel81-frontend
 
 # Acesse a pasta do projeto no seu terminal
-$ cd MediMais
+$ cd Hotel81-frontend
 
 # Intale as dependencias 
 $ npm install
