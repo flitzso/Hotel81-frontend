@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Hotel81 Frontend #
+![MEDIMAISreadme](https://github.com/flitzso/MediMais-frontend/assets/106411702/57643052-a104-44af-83db-9220bdce72d0)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Frontend do projeto Hotel81 um site de consultar medicas.
 
-## Available Scripts
+## Indicie 
+- <a href="#funcionalidades">Funcionalidades do projeto</a>
+- <a href="#layout">Layout</a>
+- <a href="#demostracao">Demostração</a>
+- <a href="#rodar">Como rodar este projeto?</a>
+- <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>
+- <a href="#autor">Autor</a>
+- <a href="#passos">Próximos Passos</a>
 
-In the project directory, you can run:
+## 💻Funcionalidades do Projeto 
 
-### `npm start`
+- [x] Cadastro de usuários
+- [x] Cadastro de endereço
+- [x] Login
+- [x] Aplicação para vaga
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 👨🏻‍💻Layout 
+![hotel1](https://github.com/flitzso/Hotel81-frontend/assets/106411702/6ed2b75e-7ca6-4def-9567-916eb5f10511)
+![hotel2](https://github.com/flitzso/Hotel81-frontend/assets/106411702/ccb1e994-f14a-4572-b19e-3dc6e3f429bb)
+![hotelLogin](https://github.com/flitzso/Hotel81-frontend/assets/106411702/7dfa1673-7d2c-4c89-8a25-38a25f7d3d11)
+![hotelCadastro](https://github.com/flitzso/Hotel81-frontend/assets/106411702/deb605c7-40a9-4454-b138-7c6ba4bd26f1)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Como rodar este projeto? 
 
-### `npm test`
+```bash
+# Clone este repositorio
+$ git clone https://github.com/flitzso/MediMais-frontend
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Acesse a pasta do projeto no seu terminal
+$ cd MediMais
 
-### `npm run build`
+# Intale as dependencias 
+$ npm install
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Execute a aplicação
+$ yarn start
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# A aplicação será iniciada na porta 300, acesse pelo seu navegador:
+http://localhost:3000
+```
+## 🔧Tecnologias utilizadas
+1. [React](https://react.dev/)
+2. [Bootstrap](https://getbootstrap.com/)
+## Autor
+![linkedin](https://github.com/flitzso/MediMais-frontend/assets/106411702/8a8c24e2-b8d6-4347-8724-9b7b79d38c91)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Próximos Passos 
 
-### `npm run eject`
+- [ ] Reclamações
+- [ ] Feedback 
+- [ ] Central de atendimento
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
