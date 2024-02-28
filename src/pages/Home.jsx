@@ -4,7 +4,7 @@ import homeBackground from '../components/imgs/home2_background.png';
 import '../components/css/Home.css'
 import Navbar from '../components/NavBar';
 import Footer from '../components/Footer';
-import Reservas from '../pages/Reservas';
+import Reservas from './Reservas';
 
 const Home = () => {
   return (
