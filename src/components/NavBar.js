@@ -23,7 +23,7 @@ const NavBar = () => {
       <a class="font1 nav-link" href="#">Contato</a>
     </li>
     <li class="nav-item">
-      <a class="font1 nav-link" href="/">Login</a>
+      <a class="font1 nav-link" href="/login">Login</a>
     </li>
     <li class="nav-item">
       <a class="font1 nav-link" href="/cadastro">Cadastro</a>
